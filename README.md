@@ -47,8 +47,6 @@ The project is best suited for a developer or founder who wants a substantial he
 - Pattern Engine pipeline
 - Analytical Engine (v1 heuristic)
 - Stripe sandbox checkout
-- Two‑Person sessions
-- Safety scanning
 
 **Partially implemented:**
 - Analytical Engine layers (v1 scaffolding)
@@ -56,7 +54,8 @@ The project is best suited for a developer or founder who wants a substantial he
 - Continuation engine (UX integration incomplete)
 - Two‑Person real‑time sync
 - Identity timeline and pattern conversations
-
+- Two‑Person sessions
+- Safety scanning
 ---
 
 ## Limitations & Disclaimers
